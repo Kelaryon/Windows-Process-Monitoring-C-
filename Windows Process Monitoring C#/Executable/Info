@@ -1,1 +1,1 @@
-To run the file
+To run the file in cmd Use "Windows Process Monitor.exe" FirstArgumet(Process to moniotr) SecondArgument(Maximum Lifespan) ThirdArgument(Monitoring Frequency)
